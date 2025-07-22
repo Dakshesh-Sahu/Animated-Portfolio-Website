@@ -12,7 +12,7 @@
 }
 
 .sTitle {
-  font-size: 60px;
+  font-size: 50px;
   margin-bottom: 24px;
 }
 
@@ -31,6 +31,8 @@
   align-items: center;
   gap: 16px;
   cursor: pointer;
+  min-height: 120px;
+  box-sizing: border-box;
 }
 
 .serviceIcon {
@@ -56,6 +58,9 @@
 .serviceInfo h3 {
   font-size: 20px;
   font-weight: 300;
+  white-space: nowrap;     
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 .service:nth-child(1) .serviceIcon {
