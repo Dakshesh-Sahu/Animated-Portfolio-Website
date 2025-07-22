@@ -1,49 +1,44 @@
-# Animated 3D Portfolio Website Project
+# 🌐Animated 3D Portfolio Website Project
 ![Image](https://github.com/user-attachments/assets/15d0772d-86e4-4198-8d74-1e10e411ce9f)
 
 A modern and responsive developer portfolio website built using React, Framer Motion, and Three.js. It features interactive animations, 3D model integration, and dynamic scroll effects to create an engaging user experience.
 
 **Features:**
-Fully responsive layout with CSS media queries.
 
-Hero section with typing effect and background image.
+1) Fully responsive layout with CSS media queries.
 
-Smooth animations using Framer Motion (variants, scroll triggers, stagger effects, counters).
+2) Hero section with typing effect and background image.
 
-3D models and backgrounds using Three.js (@react-three/fiber, drei).
+3) Smooth animations using Framer Motion (variants, scroll triggers, stagger effects, counters).
 
-Functional contact form with EmailJS integration.
+4) 3D models and backgrounds using Three.js (@react-three/fiber, drei).
 
-Animated stats, scroll progress indicators, and SVG animations.
+5) Functional contact form with EmailJS integration.
 
-Lazy loading and performance optimization with React.lazy and Suspense.
+6) Animated stats, scroll progress indicators, and SVG animations.
 
-Deployed to Vercel.
+7) Lazy loading and performance optimization with React.lazy and Suspense.
+
+8) Deployed to Vercel.
 
 **Tech Stack:**
-React.js
 
-Framer Motion
+1) React.js
 
-Three.js + @react-three/fiber, @react-three/drei
+2) Framer Motion
 
-CSS3 + Media Queries
+3) Three.js + @react-three/fiber, @react-three/drei
 
-EmailJS
+4) CSS3 + Media Queries
 
-React Icons
+5) EmailJS
 
-GLTF/GLB 3D Models
+6) React Icons
 
-**Installation**
-bash
-Copy
-Edit
-git clone https://github.com/your-username/3d-portfolio.git
-cd 3d-portfolio
-npm install
-npm start
+7) GLTF/GLB 3D Models
+
 **Screenshots:**
+
 ![Image](https://github.com/user-attachments/assets/15d0772d-86e4-4198-8d74-1e10e411ce9f)
 <img width="1892" height="863" alt="Image" src="https://github.com/user-attachments/assets/6f3ff09a-d43b-4a1f-a178-c27d7eda852c" />
 <img width="1900" height="872" alt="Image" src="https://github.com/user-attachments/assets/07d29550-999b-4ea4-a536-ca9910ea80f5" />
