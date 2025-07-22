@@ -42,7 +42,7 @@ const items = [
     img: "/p5.jpg",
     title: "Animated Portfolio Website",
     desc: "Designed a dynamic portfolio website using React with animated components, 3D objects, snap scrolling, and smooth transitions. Features include a typing animation, scroll-based progress circle, and a responsive contact form with email functionality, optimized for various screen sizes and devices.",
-    link1: "/",
+    link1: "https://animated-portfolio-website-five.vercel.app/",
     link2: "https://github.com/Dakshesh-Sahu/Animated-Portfolio-Website",
   },
 ];
