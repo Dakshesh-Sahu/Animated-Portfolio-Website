@@ -63,7 +63,7 @@ const Hero = () => {
           </motion.p>
           <motion.div variants={awardVariants} className="awardList">
             <motion.div className="awardItem">
-              <a href="https://www.overleaf.com/read/gjgpmrfnqqyx#5bf635" target="_blank" rel="noopener noreferrer">
+              <a href="https://drive.google.com/drive/folders/1cFoWtr6WF--Jvd1AwN8qPOHOg66FL1xt" target="_blank" rel="noopener noreferrer">
                 <motion.img variants={awardVariants} src="/resume.png" alt="resume" />
               </a>
              <p>Resume</p>
