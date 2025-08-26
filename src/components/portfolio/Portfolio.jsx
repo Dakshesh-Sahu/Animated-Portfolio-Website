@@ -21,7 +21,7 @@ const items = [
   },
   {
     id: 3,
-    img: "/p3.jpg",
+    img: "/p3.png",
     title: "Rubik's Cube Solver",
     desc:"This project is a real-time Rubik’s Cube solver that uses computer vision to scan cube faces, an ML model for color classification, and the Kociemba two-phase algorithm for efficient solutions in ~20 moves. With an interactive GUI, it guides users step by step, making cube solving intuitive and engaging.",
     link1: "https://github.com/Dakshesh-Sahu/Rubiks-Cube-Solver",
