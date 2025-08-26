@@ -23,9 +23,9 @@ const items = [
     id: 3,
     img: "/p3.jpg",
     title: "Rubik's Cube Solver",
-    desc:"",
-    link1: "/",
-    link2: "/",
+    desc:"This project is a real-time Rubik’s Cube solver that uses computer vision to scan cube faces, an ML model for color classification, and the Kociemba two-phase algorithm for efficient solutions in ~20 moves. With an interactive GUI, it guides users step by step, making cube solving intuitive and engaging.",
+    link1: "https://github.com/Dakshesh-Sahu/Rubiks-Cube-Solver",
+    link2: "https://github.com/Dakshesh-Sahu/Rubiks-Cube-Solver",
 
   },
   {
@@ -33,7 +33,7 @@ const items = [
     img: "/p4.jpg",
     title: "Smart Voting System",
     desc: "Developed a smart voting system using Python, OpenCV, and KNN for real-time face recognition. Enabled secure user registration, authentication, and vote logging while effectively preventing duplicate voting, ensuring a reliable and tamper-proof digital election process.",
-    link1: "/",
+    link1: "https://github.com/Dakshesh-Sahu/Smart-Election-Voting-System",
     link2: "https://github.com/Dakshesh-Sahu/Smart-Election-Voting-System",
 
   },
